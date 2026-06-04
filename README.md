@@ -13,8 +13,7 @@ This analysis answers four core questions:
 
 ## Key Findings
 - Total revenue of **Rp 5.3B** across 9,636 transactions (April–July)
-- **Jakarta Selatan** is the top-performing store, contributing the largest 
-  share of total revenue across 7 locations
+- **Jakarta Selatan** is the top-performing store, contributing **37% of total revenue** (Rp 1.99B) across 7 locations
 - **Female customers aged 48+** generate over 70% of total revenue (≈ Rp 3.9B), 
   making them the core customer segment
 - **Friday** is the highest-revenue day — driven by both higher transaction 
